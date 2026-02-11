@@ -5,7 +5,7 @@
 This project analyzes the AdventureWorks sample database using Python, SQL Server, and Jupyter Notebook.  
 The goal of the analysis is to answer a set of business questions related to products, sales performance, customers, and regions through structured SQL queries and clear visualizations.
 
-The project contains **7 visualizations**, each designed to address a specific business question and demonstrate best practices in data extraction, analysis, and presentation.
+The project contains **7 visualizations**, designed to address business questions.
 
 ---
 
@@ -23,13 +23,13 @@ The analysis includes the following visualizations:
   Displays how total sales develop over time on a monthly basis.
 
 * **Sales and Number of Orders per Year**  
-  Compares yearly total sales and order volumes to identify long-term trends.
+  Compares yearly total sales and order volumes to identify trends.
 
 * **Top 10 Products by Sales**  
   Identifies the top 10 best-selling products and shows which product category dominates this list.
 
 * **Sales and Number of Customers per Region**  
-  Compares regional performance in terms of total sales and number of unique customers.
+  Compares regional total sales and number of unique customers.
 
 * **Average Order Value per Region and Customer Type**  
   Analyzes differences in average order value between individual customers and corporate (store) customers across regions.
