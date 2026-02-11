@@ -13,7 +13,7 @@ The project contains **7 visualizations**, each designed to address a specific b
 
 The analysis includes the following visualizations:
 
-* **Number of Products per Category**  
+* **Products per Category**  
   Shows how many products exist in each product category and identifies categories with the most and fewest products.
 
 * **Sales per Product Category**  

@@ -1,10 +1,10 @@
 USE AdventureWorks2025
 
--- Part One SQL ----------------------------------------------------
 -- SELECT * FROM Production.ProductCategory
 -- SELECT * FROM Production.ProductSubcategory
 -- SELECT * FROM Production.Product
 
+-- Part One SQL ----------------------------------------------------
 
 SELECT
     pc.Name AS CategoryName,
